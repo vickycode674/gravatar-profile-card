@@ -19,3 +19,5 @@ This application allows users to enter profile details and fetches their Gravata
    ```sh
    git clone <repo-url>
    cd gravatar-profile-app
+2. Run the react file
+   npm run dev
